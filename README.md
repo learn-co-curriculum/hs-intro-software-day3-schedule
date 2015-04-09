@@ -1,7 +1,7 @@
 ---
 tags: schedule, kids, ruby, arrays, hashes
 language: ruby
-level: 2
+level: 1
 type: schedule
 ---
 

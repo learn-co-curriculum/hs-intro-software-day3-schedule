@@ -14,4 +14,4 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 [Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1aq8P8PI1WwDCW-FSGpKRg9mh16kdHNQpqPM0dBUkIfA/edit)
 
-<a href='https://learn.co/lessons/hs-intro-software-day3-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-software-day3-schedule' title='This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.'>This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.</a> on Learn.co and start learning to code for free.</p>
